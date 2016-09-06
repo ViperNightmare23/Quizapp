@@ -39,6 +39,7 @@ GEM
       minitest (~> 5.1)
       tzinfo (~> 1.1)
     arel (7.1.1)
+<<<<<<< HEAD
     autoprefixer-rails (6.4.1)
       execjs
     bootstrap (4.0.0.alpha3.1)
@@ -47,6 +48,8 @@ GEM
     bootstrap-sass (3.3.7)
       autoprefixer-rails (>= 5.2.1)
       sass (>= 3.3.4)
+=======
+>>>>>>> 7af068f3964f26724a6b200727902828dab66e5f
     builder (3.2.2)
     byebug (9.0.5)
     coffee-rails (4.2.1)
@@ -158,16 +161,22 @@ GEM
     websocket-driver (0.6.4)
       websocket-extensions (>= 0.1.0)
     websocket-extensions (0.1.2)
+<<<<<<< HEAD
     will_paginate (3.1.0)
     will_paginate-bootstrap (1.0.1)
       will_paginate (>= 3.0.3)
+=======
+>>>>>>> 7af068f3964f26724a6b200727902828dab66e5f
 
 PLATFORMS
   ruby
 
 DEPENDENCIES
+<<<<<<< HEAD
   bootstrap (~> 4.0.0.alpha3.1)
   bootstrap-sass
+=======
+>>>>>>> 7af068f3964f26724a6b200727902828dab66e5f
   byebug
   coffee-rails (~> 4.2)
   jbuilder (~> 2.5)
@@ -183,7 +192,10 @@ DEPENDENCIES
   tzinfo-data
   uglifier (>= 1.3.0)
   web-console
+<<<<<<< HEAD
   will_paginate-bootstrap
+=======
+>>>>>>> 7af068f3964f26724a6b200727902828dab66e5f
 
 BUNDLED WITH
    1.12.5
